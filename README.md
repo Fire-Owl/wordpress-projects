@@ -68,7 +68,9 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
 -- Recherchez des visuels complémentaires (ex. : photos, dessins, icônes)
 -- Réalisez des illustrations, des graphismes et des visuels
 --- En utilisant le logiciel professionnel de traitement d'images Adobe Illustrator, réalisez des illustrations vectorielles (logotype, éléments d'interface, pictogrammes) ;
--- Utilisez Adobe Spark ou un service équivalent pour produire une animation ;
+-- Utilisez [Adobe Spark](https://www.adobe.com/fr/express/) ou un service équivalent ([WeVideo ](https://www.wevideo.com/), [Vimeo Create](https://vimeo.com/create) ou [Canva](https://www.canva.com/fr_fr/) par exemple, pour produire une animation ;
+> Le Designer Web élabore une animation destinée à différents supports de diffusion : site Web, site Web mobile, affichage dynamique. En fonction de la durée et de la complexité de l'animation, il conçoit un scénarimage (story-board) en tenant compte des règles de cadrage, de rythme, d’échelle des plans et de mouvement. Il définit l'univers graphique, crée ou adapte les différents médias (ex. : illustrations, typographies, images, photos) et les intègre dans l'animation. Il associe des effets visuels et sonores au scénario. Il optimise le poids et la fluidité de l’animation, et choisit le format de publication adapté au support de diffusion.
+ 
 --- En utilisant le logiciel professionnel de traitement d'images Adobe Photoshop, effectuez des retouches, des recadrages, des sélections, des corrections colorimétriques, des photomontages, appliquez des effets spéciaux
 -- Utilisez les différents éléments en respectant la législation des droits d'auteurs
 -- Optimisez le poids et la qualité, sélectionnez le format d’enregistrement et définissez la taille des réalisations
@@ -84,4 +86,4 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
 
 > LIVRABLES : Les maquettes au format PSD, le prototype au format XD et le dossier de conception.
 
-### ​Phase de Développement
+### Phase de Développement
