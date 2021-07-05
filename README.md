@@ -29,7 +29,7 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
 ### Phases d’initialisation : constitution des groupes et définition de l'identité du projet
 
 - Constituez des groupes de 3 personnes
-- Procédez à l'élection d'un « Chef de projet » qui sera en charge de la coordination des différents acteurs sur le projet ; 
+ - Procédez à l'élection d'un « Chef de projet » qui sera en charge de la coordination des différents acteurs sur le projet ; 
 - Commencez la rédaction du dossier de conception du projet :
  - Identifiez l'objectif :
   - rappelez le contexte du projet
