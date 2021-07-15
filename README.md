@@ -231,7 +231,7 @@ Le dossier de conception contient *a minima* :
     - Utilisez la technologie Sass pour introduire de la logique de programmation dans votre CSS ;
   - Prenez en compte les problématiques de référencement naturel dans votre développement ;
 
-- Développez une extension de *Newsletter* ;
+- Installez une extension (*plugin*) de *Newsletter* ;
 
 - Effectuez le passage en production du site réalisé avec le CMS WordPress :
   - Identifiez une extension WordPress pour migrer en ligne un site développé en local (par exemple Duplicator) ;
